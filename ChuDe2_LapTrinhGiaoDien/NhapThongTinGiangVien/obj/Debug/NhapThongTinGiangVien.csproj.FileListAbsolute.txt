@@ -1,0 +1,10 @@
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\bin\Debug\NhapThongTinGiangVien.exe.config
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\bin\Debug\NhapThongTinGiangVien.exe
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\bin\Debug\NhapThongTinGiangVien.pdb
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.csproj.AssemblyReference.cache
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.frmTBGiangVien.resources
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.Properties.Resources.resources
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.csproj.GenerateResource.cache
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.csproj.CoreCompileInputs.cache
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.exe
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.pdb
