@@ -1,0 +1,10 @@
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\bin\Debug\MyForm.exe
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\bin\Debug\MyForm.pdb
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\obj\Debug\MyForm.frmTrungTam.resources
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\obj\Debug\MyForm.exe
+C:\Users\Maxsys\Documents\PhattrienDesktop\ChuDe2_LapTrinhGiaoDien\MyForm\obj\Debug\MyForm.pdb
