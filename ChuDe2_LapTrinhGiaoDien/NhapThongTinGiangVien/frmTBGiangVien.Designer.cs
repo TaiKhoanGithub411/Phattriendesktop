@@ -48,7 +48,7 @@ namespace NhapThongTinGiangVien
             this.chklbNgoaiNgu = new System.Windows.Forms.CheckedListBox();
             this.lblDSMonHoc = new System.Windows.Forms.Label();
             this.lbDanhSachHP = new System.Windows.Forms.ListBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblMonDay = new System.Windows.Forms.Label();
             this.lbHocPhanDay = new System.Windows.Forms.ListBox();
             this.btnChon = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
@@ -257,15 +257,15 @@ namespace NhapThongTinGiangVien
             this.lbDanhSachHP.Size = new System.Drawing.Size(199, 184);
             this.lbDanhSachHP.TabIndex = 9;
             // 
-            // label1
+            // lblMonDay
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(405, 305);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(236, 25);
-            this.label1.TabIndex = 18;
-            this.label1.Text = "Môn học giảng viên dạy";
+            this.lblMonDay.AutoSize = true;
+            this.lblMonDay.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMonDay.Location = new System.Drawing.Point(384, 305);
+            this.lblMonDay.Name = "lblMonDay";
+            this.lblMonDay.Size = new System.Drawing.Size(236, 25);
+            this.lblMonDay.TabIndex = 18;
+            this.lblMonDay.Text = "Môn học giảng viên dạy";
             // 
             // lbHocPhanDay
             // 
@@ -273,7 +273,7 @@ namespace NhapThongTinGiangVien
             this.lbHocPhanDay.ItemHeight = 20;
             this.lbHocPhanDay.Items.AddRange(new object[] {
             " "});
-            this.lbHocPhanDay.Location = new System.Drawing.Point(404, 336);
+            this.lbHocPhanDay.Location = new System.Drawing.Point(389, 336);
             this.lbHocPhanDay.Name = "lbHocPhanDay";
             this.lbHocPhanDay.Size = new System.Drawing.Size(199, 184);
             this.lbHocPhanDay.TabIndex = 10;
@@ -286,6 +286,7 @@ namespace NhapThongTinGiangVien
             this.btnChon.TabIndex = 11;
             this.btnChon.Text = ">>";
             this.btnChon.UseVisualStyleBackColor = true;
+            this.btnChon.Click += new System.EventHandler(this.btnChon_Click);
             // 
             // btnXoa
             // 
@@ -295,6 +296,7 @@ namespace NhapThongTinGiangVien
             this.btnXoa.TabIndex = 12;
             this.btnXoa.Text = "<<";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnThongBao
             // 
@@ -306,6 +308,7 @@ namespace NhapThongTinGiangVien
             this.btnThongBao.TabIndex = 13;
             this.btnThongBao.Text = "Thông báo";
             this.btnThongBao.UseVisualStyleBackColor = true;
+            this.btnThongBao.Click += new System.EventHandler(this.btnThongBao_Click);
             // 
             // btnCancel
             // 
@@ -320,6 +323,7 @@ namespace NhapThongTinGiangVien
             this.btnCancel.TabIndex = 14;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = true;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // btnExit
             // 
@@ -331,6 +335,7 @@ namespace NhapThongTinGiangVien
             this.btnExit.TabIndex = 15;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // lblWeb
             // 
@@ -352,6 +357,7 @@ namespace NhapThongTinGiangVien
             this.linklbLienHe.TabIndex = 16;
             this.linklbLienHe.TabStop = true;
             this.linklbLienHe.Text = "Liên hệ";
+            this.linklbLienHe.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linklbLienHe_LinkClicked);
             // 
             // frmTBGiangVien
             // 
@@ -366,7 +372,7 @@ namespace NhapThongTinGiangVien
             this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.btnChon);
             this.Controls.Add(this.lbHocPhanDay);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblMonDay);
             this.Controls.Add(this.lbDanhSachHP);
             this.Controls.Add(this.lblDSMonHoc);
             this.Controls.Add(this.chklbNgoaiNgu);
@@ -389,6 +395,7 @@ namespace NhapThongTinGiangVien
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "frmTBGiangVien";
             this.Text = "Thông tin giảng viên";
+            this.Load += new System.EventHandler(this.frmTBGiangVien_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -414,7 +421,7 @@ namespace NhapThongTinGiangVien
         private System.Windows.Forms.CheckedListBox chklbNgoaiNgu;
         private System.Windows.Forms.Label lblDSMonHoc;
         private System.Windows.Forms.ListBox lbDanhSachHP;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblMonDay;
         private System.Windows.Forms.ListBox lbHocPhanDay;
         private System.Windows.Forms.Button btnChon;
         private System.Windows.Forms.Button btnXoa;
