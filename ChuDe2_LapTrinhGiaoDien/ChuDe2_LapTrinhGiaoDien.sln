@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyForm", "MyForm\MyForm.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhapThongTinGiangVien", "NhapThongTinGiangVien\NhapThongTinGiangVien.csproj", "{5874F7F3-8F9B-498A-A0E6-CF93B312144C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLThongTinSV", "QLThongTinSV\QLThongTinSV.csproj", "{CBF4C441-CDD5-4812-8C9D-EC98731D667B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5874F7F3-8F9B-498A-A0E6-CF93B312144C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5874F7F3-8F9B-498A-A0E6-CF93B312144C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5874F7F3-8F9B-498A-A0E6-CF93B312144C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF4C441-CDD5-4812-8C9D-EC98731D667B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF4C441-CDD5-4812-8C9D-EC98731D667B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF4C441-CDD5-4812-8C9D-EC98731D667B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF4C441-CDD5-4812-8C9D-EC98731D667B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

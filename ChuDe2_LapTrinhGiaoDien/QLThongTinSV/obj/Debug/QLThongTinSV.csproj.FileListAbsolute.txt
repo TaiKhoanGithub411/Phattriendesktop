@@ -1,0 +1,10 @@
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\bin\Debug\QLThongTinSV.exe.config
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\bin\Debug\QLThongTinSV.exe
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\bin\Debug\QLThongTinSV.pdb
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\obj\Debug\QLThongTinSV.csproj.AssemblyReference.cache
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\obj\Debug\QLThongTinSV.frmSinhVien.resources
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\obj\Debug\QLThongTinSV.Properties.Resources.resources
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\obj\Debug\QLThongTinSV.csproj.GenerateResource.cache
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\obj\Debug\QLThongTinSV.csproj.CoreCompileInputs.cache
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\obj\Debug\QLThongTinSV.exe
+C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\QLThongTinSV\obj\Debug\QLThongTinSV.pdb
