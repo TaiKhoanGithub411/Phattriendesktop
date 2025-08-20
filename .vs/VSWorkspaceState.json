@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ChuDe2_LapTrinhGiaoDien"
+    "\\ChuDe2_LapTrinhGiaoDien",
+    "\\ChuDe2_LapTrinhGiaoDien\\NhapThongTinGiangVien"
   ],
-  "SelectedNode": "\\ChuDe2_LapTrinhGiaoDien\\ChuDe2_LapTrinhGiaoDien.sln",
+  "SelectedNode": "\\ChuDe2_LapTrinhGiaoDien\\NhapThongTinGiangVien\\frmTBGiangVien.cs",
   "PreviewInSolutionExplorer": false
 }
