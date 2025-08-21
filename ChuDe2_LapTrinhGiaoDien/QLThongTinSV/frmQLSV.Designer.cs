@@ -58,7 +58,6 @@ namespace QLThongTinSV
             this.lblMaSo = new System.Windows.Forms.Label();
             this.DSSV = new System.Windows.Forms.GroupBox();
             this.lvSinhVien = new System.Windows.Forms.ListView();
-            this.OpenFileDialogHinh = new System.Windows.Forms.OpenFileDialog();
             this.clMaSo = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clHoTen = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clNgaySinh = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -67,6 +66,7 @@ namespace QLThongTinSV
             this.clPhai = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clCuyenNganh = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clHinh = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.OpenFileDialogHinh = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer2)).BeginInit();
@@ -143,7 +143,7 @@ namespace QLThongTinSV
             // 
             this.btnMacDinh.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMacDinh.ForeColor = System.Drawing.Color.Blue;
-            this.btnMacDinh.Location = new System.Drawing.Point(272, 515);
+            this.btnMacDinh.Location = new System.Drawing.Point(321, 515);
             this.btnMacDinh.Name = "btnMacDinh";
             this.btnMacDinh.Size = new System.Drawing.Size(99, 31);
             this.btnMacDinh.TabIndex = 18;
@@ -154,7 +154,7 @@ namespace QLThongTinSV
             // 
             this.btnThoat.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.ForeColor = System.Drawing.Color.Blue;
-            this.btnThoat.Location = new System.Drawing.Point(390, 515);
+            this.btnThoat.Location = new System.Drawing.Point(441, 515);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(68, 31);
             this.btnThoat.TabIndex = 18;
@@ -165,7 +165,7 @@ namespace QLThongTinSV
             // 
             this.btnSua.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSua.ForeColor = System.Drawing.Color.Blue;
-            this.btnSua.Location = new System.Drawing.Point(188, 515);
+            this.btnSua.Location = new System.Drawing.Point(232, 515);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(68, 31);
             this.btnSua.TabIndex = 18;
@@ -176,7 +176,7 @@ namespace QLThongTinSV
             // 
             this.btnXoa.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.ForeColor = System.Drawing.Color.Blue;
-            this.btnXoa.Location = new System.Drawing.Point(108, 515);
+            this.btnXoa.Location = new System.Drawing.Point(141, 515);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(68, 31);
             this.btnXoa.TabIndex = 18;
@@ -187,7 +187,7 @@ namespace QLThongTinSV
             // 
             this.btnThem.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThem.ForeColor = System.Drawing.Color.Blue;
-            this.btnThem.Location = new System.Drawing.Point(15, 515);
+            this.btnThem.Location = new System.Drawing.Point(50, 515);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(72, 31);
             this.btnThem.TabIndex = 18;
