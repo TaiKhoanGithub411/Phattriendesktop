@@ -10,15 +10,11 @@ using System.Windows.Forms;
 
 namespace NhapThongTinGiangVien
 {
-    public partial class frmTBGiangVien : Form
+    public partial class frmTimGiangVien : Form
     {
-        public frmTBGiangVien()
+        public frmTimGiangVien()
         {
             InitializeComponent();
-        }
-        public void SetText(string s)
-        {
-            this.lblThongbao.Text = s;
         }
     }
 }

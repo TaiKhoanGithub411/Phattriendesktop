@@ -29,6 +29,8 @@ namespace QLThongTinSV
                 gt = "Nam";
             lvitem.SubItems.Add(gt);
             string cn = "";
+            foreach (string s in sv.ChuyenNganh)
+                cn += s + ',';
             cn = cn.Substring(0, cn.Length - 1);
             lvitem.SubItems.Add(cn);
             lvitem.SubItems.Add(sv.Hinh);

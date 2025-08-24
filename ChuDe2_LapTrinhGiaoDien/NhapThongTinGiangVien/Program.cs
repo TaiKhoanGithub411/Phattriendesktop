@@ -16,7 +16,7 @@ namespace NhapThongTinGiangVien
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTBGiangVien());
+            Application.Run(new frmGiangVien());
         }
     }
 }

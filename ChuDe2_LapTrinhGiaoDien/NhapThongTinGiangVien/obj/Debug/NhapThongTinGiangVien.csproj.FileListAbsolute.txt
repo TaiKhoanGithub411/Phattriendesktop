@@ -8,3 +8,16 @@ C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongT
 C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.csproj.CoreCompileInputs.cache
 C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.exe
 C:\Users\Maxsys\Source\Repos\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.pdb
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.csproj.AssemblyReference.cache
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.frmBaoLoi.resources
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.frmGiangVien.resources
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.frmTBGiangVien.resources
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.frmTimGiangVien.resources
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.Properties.Resources.resources
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.csproj.GenerateResource.cache
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.csproj.CoreCompileInputs.cache
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\bin\Debug\NhapThongTinGiangVien.exe.config
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\bin\Debug\NhapThongTinGiangVien.exe
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\bin\Debug\NhapThongTinGiangVien.pdb
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.exe
+G:\Ứng dụng desktop\WinForm\Phattriendesktop\ChuDe2_LapTrinhGiaoDien\NhapThongTinGiangVien\obj\Debug\NhapThongTinGiangVien.pdb
